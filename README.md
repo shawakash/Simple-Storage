@@ -5,6 +5,12 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
+Start using by running
+```shell
+yarn init
+yarn hardhat
+```
+
 ```shell
 npx hardhat help
 npx hardhat test
